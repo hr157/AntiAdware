@@ -14,7 +14,7 @@ Avoid to get **unwanted applications** while downloading **on many websites** wi
 ![Romhustler](https://i.imgur.com/wup392J.png "Romhustler")![Secureupload](https://i.imgur.com/eQ06o7i.png "Secureupload")![Sendspace](https://i.imgur.com/7gx1svU.png "Sendspace")![Sharebeast](https://i.imgur.com/PAUqYgu.png "Sharebeast")![Shared](https://i.imgur.com/onpVg02.png "Shared")![SoftM8](https://i.imgur.com/YcCYuvK.png "SoftM8")![Softonic](https://i.imgur.com/zVF1jat.png "Softonic")![Solidfiles](https://i.imgur.com/rtXgrpz.png "Solidfiles")![Sourceforge](https://i.imgur.com/HKfnAiF.png "Sourceforge")![Tusfiles](https://i.imgur.com/7sZA4re.png "Tusfiles")![Unlimitzone](https://i.imgur.com/FLJWebZ.png "Unlimitzone")![Uploading](https://i.imgur.com/nf0jqv9.png "Uploading")![UploadsHub](https://i.imgur.com/ySuwrni.png "UploadsHub")![Uplod](https://i.imgur.com/X04IJky.png "Uplod")![Uptobox](https://i.imgur.com/HgqSsEu.png "Uptobox")![UsersCDN](https://i.imgur.com/AR3vvNQ.png "UsersCDN")
 ![Ziddu](https://i.imgur.com/QESaPBE.png "Ziddu")](https://github.com/HandyUserscripts/AntiAdware/wiki/Supported-Websites)
 
-See [here](https://github.com/HandyUserscripts/AntiAdware/wiki/Supported-Websites) for the full list of the ~40 supported websites.
+See [here](https://github.com/hr157/AntiAdware/wiki/Supported-Websites) for the full list of the ~40 supported websites.
 
 # Prepare for installation
 
@@ -53,4 +53,4 @@ After that you correctly prepared the installation, you can download the script 
 
 # What's new?
 
-Check it out here! https://github.com/HandyUserscripts/AntiAdware/releases
+Check it out here! https://github.com/hr157/AntiAdware/releases
