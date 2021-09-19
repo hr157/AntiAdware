@@ -1,7 +1,5 @@
 // ==UserScript==
 // @name AntiAdware
-// @name:fr AntiAdware
-// @name:de AntiAdware
 // @name:zh-TW AntiAdware
 // @name:zh-CN AntiAdware
 // @author noname120
